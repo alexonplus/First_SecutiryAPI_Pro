@@ -1,0 +1,6 @@
+@SecutiryAPI_HostAddress = http://localhost:5159
+
+GET {{SecutiryAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
