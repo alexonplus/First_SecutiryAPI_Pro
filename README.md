@@ -13,15 +13,7 @@ An ASP.NET Core Web API project featuring JWT authentication and Swagger documen
 3. Click **Authorize**, paste the token, and click Authorize.
 4. Access `GET /WeatherForecast` to verify authorization (200 OK).
 
-## Proof of Work
-### Swagger UI
-![API Interface](Pictures/1.jpg)
 
-### Login and Token
-![Auth](Pictures/2.png)
-
-### Success Response
-![200 OK](Pictures/3.png)
 
 ## 3 Common Mistakes I Solved Today
 
